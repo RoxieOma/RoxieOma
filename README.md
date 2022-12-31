@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
     • 📊 I have experience cleaning data, wrangling data, data visualization, designing dashboards, and analyzing data
 
-    • 📜 I am certified data analyst with Utiva
+    • 📜 I am a certified data analyst with Utiva
 
     • 📬 You can reach me on my [LinkedIn]([url](https://www.linkedin.com/in/chikwado-uche-enwere))
 
