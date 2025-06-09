@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 ### A Little about me 
     • I am passionate about data analysis; I practically love solving problems.
-    • I lead the sales team as a Relationship Manager in one of Nigeria's largest financial institutions 🏦, and I began working with data in 2022.
+    • I lead the sales team as a Relationship Manager in one of Nigeria's largest financial institutions 🏦, 
+        and I began working with data in 2022.
     • My goal 🎯 is to venture into machine learning, but for now, my growth path is from Data Analyst to Data Scientist.
     • I have experience cleaning data, wrangling data, data visualization, designing dashboards, and analyzing data 📊.
     • I am a certified data analyst with Altschool and Utiva
