@@ -1,44 +1,34 @@
-### Hi there 👋 welcome to my page, I'm Rose a Data Analyst
-
-
+### Hi there 👋 welcome to my page, I'm Rose, a Data Analyst
 <!--
 **RoxieOma/RoxieOma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I currently run a Tech Academy called Rizamy Technovate.
+- I’m currently learning Cloud infrastructures.
+- I’m looking to work in a data role. Currently, 
+- Ask me about ...
+- How to reach me: rose.enwere11@gmail.com or on LinkedIn. 
+- Pronouns: it's she/her
+- Fun fact: I love learning languages; I'm currently learning French and Korean. 
 -->
 
 
-
-### 🌞 A Little about me 🌞
-
-    • 👀 I am passionate about data analysis; I practically love solving problems
-
-    • 🏦 I have a background in the financial banking sector and I began transitioning into data analysis in 2022
-
-    • 🎯 My goal is to eventually venture into machine learning space but for now my growth path is Data Analyst to Data science
-
-    • 📊 I have experience cleaning data, wrangling data, data visualization, designing dashboards, and analyzing data
-
-    • 📜 I am a certified data analyst with Utiva
-
-    • 📬 You can reach me on my [LinkedIn]([url](https://www.linkedin.com/in/chikwado-uche-enwere))
-
+### A Little about me 
+    • I am passionate about data analysis; I practically love solving problems.
+    • I lead the sales team as a Relationship Manager in one of Nigeria's largest financial institutions 🏦, and I began working with data in 2022.
+    • My goal 🎯 is to venture into machine learning, but for now, my growth path is from Data Analyst to Data Scientist.
+    • I have experience cleaning data, wrangling data, data visualization, designing dashboards, and analyzing data 📊.
+    • I am a certified data analyst with Altschool and Utiva
+    • You can reach me on my [LinkedIn]([url](https://www.linkedin.com/in/chikwado-uche-enwere))
+    • I love learning languages; I'm currently learning French and Korean. 
+    
 
 ### 💡 Skills💡
-
     • SQL
-
-    • Power Bi 
-
+    • Power BI 
     • Excel
-
     • Python
+    
+### 💡 Certification 💡
+    • Diploma in Data Science from AltSchool
+    • Certified Data Analyst (DataCamp)
